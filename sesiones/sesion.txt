@@ -1,0 +1,13 @@
+Script started on 2026-05-27 02:21:26+00:00 [TERM="linux" TTY="/dev/tty1" COLUMNS="160" LINES="50"]
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ ped[K[Kwd
+[?2004l/home/irina/ShellDocWeb/sesiones
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ ls
+[?2004larchivo.txt  [0m[01;34mprueba[0m  sesion.txt
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ date
+[?2004lmié 27 may 2026 02:21:44 UTC
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ whoami
+[?2004lirina
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ exit
+[?2004lexit
+
+Script done on 2026-05-27 02:22:22+00:00 [COMMAND_EXIT_CODE="0"]
