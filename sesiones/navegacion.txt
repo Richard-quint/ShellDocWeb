@@ -1,0 +1,16 @@
+Script started on 2026-05-27 02:40:59+00:00 [TERM="linux" TTY="/dev/tty1" COLUMNS="160" LINES="50"]
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ pwd
+[?2004l/home/irina/ShellDocWeb/sesiones
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ ls
+[?2004larchivo.txt  navegacion.txt  [0m[01;34mprueba[0m  sesion.txt
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ mkdir practica
+[?2004l[?2004hirina@irina:~/ShellDocWeb/sesiones$ cd practica
+[?2004l[?2004hirina@irina:~/ShellDocWeb/sesiones/practica$ touch prueba1.txt
+[?2004l[?2004hirina@irina:~/ShellDocWeb/sesiones/practica$ touch prueba2.txt
+[?2004l[?2004hirina@irina:~/ShellDocWeb/sesiones/practica$ ls
+[?2004lprueba1.txt  prueba2.txt
+[?2004hirina@irina:~/ShellDocWeb/sesiones/practica$ cd ..
+[?2004l[?2004hirina@irina:~/ShellDocWeb/sesiones$ exit
+[?2004lexit
+
+Script done on 2026-05-27 02:42:05+00:00 [COMMAND_EXIT_CODE="0"]

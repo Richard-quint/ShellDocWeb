@@ -1,0 +1,23 @@
+Script started on 2026-05-27 02:43:53+00:00 [TERM="linux" TTY="/dev/tty1" COLUMNS="160" LINES="50"]
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ date
+[?2004lmié 27 may 2026 02:43:57 UTC
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ pwd
+[?2004l/home/irina/ShellDocWeb/sesiones
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ df -h
+[?2004lFilesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1,1M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   12G  5,8G  4,9G  55% /
+tmpfs                              2,0G     0  2,0G   0% /dev/shm
+tmpfs                              5,0M     0  5,0M   0% /run/lock
+/dev/sda2                          2,0G  104M  1,7G   6% /boot
+tmpfs                              392M   12K  392M   1% /run/user/1000
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ free -m
+[?2004l               total        used        free      shared  buff/cache   available
+Mem:            3916         394        3318           1         419        3521
+Swap:           2257           0        2257
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ ls
+[?2004larchivo.txt  navegacion.txt  [0m[01;34mpractica[0m  procesos.txt  [01;34mprueba[0m  sesion.txt  sistema.txt
+[?2004hirina@irina:~/ShellDocWeb/sesiones$ exit
+[?2004lexit
+
+Script done on 2026-05-27 02:44:20+00:00 [COMMAND_EXIT_CODE="0"]
