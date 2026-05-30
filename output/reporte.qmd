@@ -1,0 +1,11 @@
+---
+title: "ShellDocWeb"
+format: 
+  html:
+    theme: lux
+    toc: true
+---
+
+# Reporte Linux
+
+{{< include reporte.md >}}
